@@ -1,9 +1,5 @@
 import statistics
 
-
-# The following extra credit steps were made: program returns error if temperature is above 300 or below -200,
-# and if humidity is below 0 or over 100
-
 def main():
     print("*** Heat Index Calculator ***")
     # Name of each location given by user
